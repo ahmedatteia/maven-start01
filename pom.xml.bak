@@ -7,7 +7,16 @@
   <groupId>maven.program</groupId>
   <artifactId>bau-release</artifactId>
   <version>1.0</version>
-   <build>
+  <dependencies>
+	  <dependency>
+		  <groupId>org.apache.commons</groupId>
+		  <artifactId>commons-lang3</artifactId>
+		  <version>3.12</version>
+	  </dependency>
+  </dependencies>
+  
+
+  <build>
     <plugins>
       <plugin>
         <groupId>org.apache.maven.plugins</groupId>
@@ -20,4 +29,5 @@
       </plugin>
     </plugins>
   </build>
+  
 </project>
