@@ -1,0 +1,15 @@
+[INFO] Scanning for projects...
+[INFO] 
+[INFO] ---------------------< maven.program:bau-release >----------------------
+[INFO] Building bau-release 1.0
+[INFO] --------------------------------[ jar ]---------------------------------
+[INFO] 
+[INFO] --- maven-dependency-plugin:2.8:tree (default-cli) @ bau-release ---
+[INFO] maven.program:bau-release:jar:1.0
+[INFO] \- org.apache.commons:commons-lang3:jar:3.4:compile
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time:  0.980 s
+[INFO] Finished at: 2022-09-19T21:38:37+04:00
+[INFO] ------------------------------------------------------------------------
